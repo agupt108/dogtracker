@@ -18,4 +18,4 @@ Follow the following wiring chart for the tracker. \
 Upload _reciever.ino_ to the reciever.\
 Upload _tracker.ino_ to the tracker.\
 Make sure to connect your server to the reciever so it will upload properly.\
-Download Prowl for Ios on your Iphone.\
+Download Prowl for Ios on your Iphone.
