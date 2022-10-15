@@ -13,9 +13,9 @@ Server module\
 iPhone with Prowl firmware installed\
 
 **Instructions:**\
-Follow the following wiring chart for the reciever. You can use either the 2560 or Uno for the microcontroller.
-Follow the following wiring chart for the tracker. 
-Upload _reciever.ino_ to the reciever.
-Upload _tracker.ino_ to the tracker.
-Make sure to connect your server to the reciever so it will upload properly.
-Download Prowl for Ios on your Iphone.
+Follow the following wiring chart for the reciever. You can use either the 2560 or Uno for the microcontroller.\
+Follow the following wiring chart for the tracker. \
+Upload _reciever.ino_ to the reciever.\
+Upload _tracker.ino_ to the tracker.\
+Make sure to connect your server to the reciever so it will upload properly.\
+Download Prowl for Ios on your Iphone.\
