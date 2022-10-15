@@ -10,7 +10,7 @@ Arduino Mega 2560 or Uno (not Nano, which has too less power for main transcieve
 GPS GT-U7 NEO-6M module\
 2 RAYAX LoRa Transciever Module (code: RYLR896 or RYLR890)\
 Server module\
-iPhone with Prowl firmware installed\
+iPhone with Prowl firmware installed
 
 **Instructions:**\
 Follow the following wiring chart for the reciever. You can use either the 2560 or Uno for the microcontroller.\
@@ -18,4 +18,4 @@ Follow the following wiring chart for the tracker. \
 Upload _reciever.ino_ to the reciever.\
 Upload _tracker.ino_ to the tracker.\
 Make sure to connect your server to the reciever so it will upload properly.\
-Download Prowl for Ios on your Iphone.
+Download Prowl on your Iphone to get notifications of location.
