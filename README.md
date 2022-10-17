@@ -14,8 +14,7 @@ iPhone with Prowl firmware installed
 
 **Instructions:**\
 Follow the following wiring chart for the reciever. You can use either the 2560 or Uno for the microcontroller.\
-|   LoRa       Nano  |\
-| -------- | ------- |\
+|   LoRa   -   2560  |\
 |   VDD    -   3V3   |\
 |RXD -  4.7KR -  ~2  |\
 |  TXD     -    ~3   |\
