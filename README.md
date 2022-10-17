@@ -14,12 +14,7 @@ iPhone with Prowl firmware installed
 
 **Instructions:**\
 Follow the following wiring chart for the reciever. You can use either the 2560 or Uno for the microcontroller.\
-|   LoRa   -   2560  |\
-|   VDD    -   3V3   |\
-|RXD -  4.7KR -  ~2  |\
-|  TXD     -    ~3   |\
-|  GND    -  10KR (RXD) -   GND  |
-![Arduino-Reyax-RYLR890-Connection](https://user-images.githubusercontent.com/94206551/196218855-bda6320e-349a-42ea-9720-59ba21eefef8.jpeg)
+![Arduino-Reyax-RYLR890-Connection](https://user-images.githubusercontent.com/94206551/196218855-bda6320e-349a-42ea-9720-59ba21eefef8.jpeg)\
 Follow the following wiring chart for the tracker. \
 Upload _reciever.ino_ to the reciever.\
 Upload _tracker.ino_ to the tracker.\
