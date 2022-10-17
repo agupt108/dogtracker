@@ -18,9 +18,8 @@ Follow the following wiring chart for the reciever. You can use either the 2560 
 | -------- | ------- |\
 |   VDD    -   3V3   |\
 |RXD -  4.7KR -  ~2  |\
-|  TXD     -  
-TXD - ~3\
-GND - GND\
+|  TXD     -    ~3   |\
+|  GND     -    GND  |\
 [10 K resistor from RXD jumper - GND]\
 
 Follow the following wiring chart for the tracker. \
