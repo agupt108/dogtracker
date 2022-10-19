@@ -6,7 +6,7 @@ Jumper wires\
 Soldering iron\
 Solder wire\
 2 Arduino Nano (you can use 1 2560 or R3 too, but use Nano for the transmitter)\
-GPS GT-U7 NEO-6M module\
+GPS NEO-6M module\
 2 RAYAX LoRa Transciever Module (code: RYLR896 or RYLR890)\
 Server module\
 iPhone with Prowl firmware installed
