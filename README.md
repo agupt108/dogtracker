@@ -16,5 +16,5 @@ Follow the following wiring chart for the reciever.\
 \
 ![reciever](https://user-images.githubusercontent.com/94206551/196574350-b73c118d-97c6-4562-8215-b531f57c456f.png)
 \
-Follow the following wiring chart for the transmitter. 
-
+Follow the following wiring chart for the transmitter. \
+![transmitter](https://user-images.githubusercontent.com/94206551/196774899-aa1819ea-fd1a-46a4-86b4-4c9cb33c8098.png)
