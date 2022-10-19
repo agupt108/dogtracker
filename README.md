@@ -5,18 +5,18 @@
 Jumper wires, (a good assortment of M-F, M-M, and F-F)\
 Soldering iron\
 Solder wire\
-Arduino Nano\
-Arduino Mega 2560 or Uno (not Nano, which has too less power for main transciever)\
+2 Arduino Nano (you can use 1 2560 or R3 too, but use Nano for the transmitter)\
 GPS GT-U7 NEO-6M module\
 2 RAYAX LoRa Transciever Module (code: RYLR896 or RYLR890)\
 Server module\
 iPhone with Prowl firmware installed
 
 **Instructions:**\
-Follow the following wiring chart for the reciever. You can use either the 2560 or Uno for the microcontroller.\
-![Arduino-Reyax-RYLR890-Connection](https://user-images.githubusercontent.com/94206551/196218855-bda6320e-349a-42ea-9720-59ba21eefef8.jpeg)\
-Follow the following wiring chart for the tracker. \
+Follow the following wiring chart for the reciever.\
+![reciever](https://user-images.githubusercontent.com/94206551/196574350-b73c118d-97c6-4562-8215-b531f57c456f.png)
+Follow the following wiring chart for the transmitter. \
 Upload _reciever.ino_ to the reciever.\
 Upload _tracker.ino_ to the tracker.\
 Make sure to connect your server to the reciever so it will upload properly.\
 Download Prowl on your Iphone to get notifications of location.
+
